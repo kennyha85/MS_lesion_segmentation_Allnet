@@ -1,3 +1,13 @@
+The source code for MS_lesion segmentation with Allnet
+
+Reference: "Zhang, H., Zhang, J., Li, C., Sweeney, E.M., Spincemaille, P., Nguyen, T.D., Gauthier, S.A., Wang, Y. and Marcille, M., 2021. ALL-Net: Anatomical information lesion-wise loss function integrated into neural network for multiple sclerosis lesion segmentation. NeuroImage: Clinical, 32, p.102854."
+
+link: https://www.sciencedirect.com/science/article/pii/S2213158221002989
+
+You can download the trained model for MS lesion segmentation here: https://drive.google.com/file/d/1gG3bn9nbLg0pBQ4FIJ8eo0erUEM1_pi7/view?usp=sharing
+
+The trained model for MS lesion seperation can be downloaded here: https://drive.google.com/file/d/1fCtkN-X60NjK81DgTm-1PlKfWQM5O7Uq/view?usp=sharing
+
 # Lesion Segmentation
 
 run following command as an example
