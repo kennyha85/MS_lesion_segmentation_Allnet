@@ -25,7 +25,7 @@ python run_segmentation.py --threshold 0.5 --gpu_id -1 --t1_fp ./data/0460/0460_
 --t1_fp: path for T1w image
 --t2_fp: path for T2w image
 --fl_fp: path for FLAIR image
---gpu_id: -1 stands for CPU onlu, 0 and other positive integer denotes for GPU id
+--gpu_id: -1 stands for CPU only, 0 and other positive integer denotes for GPU id
 
 
 # Lesion Separartion
