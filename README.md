@@ -43,4 +43,4 @@ please note that the segmentation mask is a required for lesion separation
 --t2_fp: path for T2w image
 --fl_fp: path for FLAIR image
 --msk_fp: path for segmentation mask
---gpu_id: -1 stands for CPU onlu, 0 and other positive integer denotes for GPU id
+--gpu_id: -1 stands for CPU only, 0 and other positive integer denotes for GPU id
