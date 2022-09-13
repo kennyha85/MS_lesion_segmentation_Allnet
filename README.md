@@ -9,7 +9,7 @@ You can download the trained model for MS lesion segmentation here: https://driv
 
 The trained model for MS lesion separation can be downloaded here: https://drive.google.com/file/d/1fCtkN-X60NjK81DgTm-1PlKfWQM5O7Uq/view?usp=sharing
 
-The images should be put in "data/pid" and the trained models should be put in "models" folder. 
+The images should be put in "data/pid" folder, and the trained models should be put in "models" folder. 
 
 
 
